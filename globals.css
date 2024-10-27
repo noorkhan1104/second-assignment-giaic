@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .pro{
+  background-color: aquamarine;
+  text-align: center;
+  height: 50px;
+  
+}
+h1{
+  color: rgb(238, 73, 73);
+} */
+ .nav{
+  background-color: rgb(164, 108, 216);
+ }
+ ul{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  height: 50px;
+  padding-top: 10px;
+  color: white;
+ }
